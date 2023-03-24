@@ -1,0 +1,11 @@
+C:\Users\iulia\OneDrive\Desktop\lab_poo\convertor\convertor\bin\Debug\convertor.exe.config
+C:\Users\iulia\OneDrive\Desktop\lab_poo\convertor\convertor\bin\Debug\convertor.exe
+C:\Users\iulia\OneDrive\Desktop\lab_poo\convertor\convertor\bin\Debug\convertor.pdb
+C:\Users\iulia\OneDrive\Desktop\lab_poo\convertor\convertor\obj\Debug\convertor.csproj.AssemblyReference.cache
+C:\Users\iulia\OneDrive\Desktop\lab_poo\convertor\convertor\obj\Debug\convertor.csproj.SuggestedBindingRedirects.cache
+C:\Users\iulia\OneDrive\Desktop\lab_poo\convertor\convertor\obj\Debug\convertor.Form1.resources
+C:\Users\iulia\OneDrive\Desktop\lab_poo\convertor\convertor\obj\Debug\convertor.Properties.Resources.resources
+C:\Users\iulia\OneDrive\Desktop\lab_poo\convertor\convertor\obj\Debug\convertor.csproj.GenerateResource.cache
+C:\Users\iulia\OneDrive\Desktop\lab_poo\convertor\convertor\obj\Debug\convertor.csproj.CoreCompileInputs.cache
+C:\Users\iulia\OneDrive\Desktop\lab_poo\convertor\convertor\obj\Debug\convertor.exe
+C:\Users\iulia\OneDrive\Desktop\lab_poo\convertor\convertor\obj\Debug\convertor.pdb
